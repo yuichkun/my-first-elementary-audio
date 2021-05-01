@@ -9,6 +9,6 @@
   "author": "Yuichi Yogo",
   "license": "MIT",
   "dependencies": {
-    "@nick-thompson/elementary": "^0.1.7"
+    "@nick-thompson/elementary": "0.1.7"
   }
 }
