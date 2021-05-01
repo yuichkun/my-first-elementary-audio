@@ -4,7 +4,7 @@
   "description": "My first hands-on with Elementary Audio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "elementary index.js"
   },
   "author": "Yuichi Yogo",
   "license": "MIT",
